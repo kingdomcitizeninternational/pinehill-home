@@ -71,12 +71,7 @@ const ContactPage = () => {
         {isMessageLoader && <Loader />}
         {isError && <Modal content={isErrorInfo} closeModal={closeModal} />}
 
-        {isLoading ? <div className="preloader">
-            <div className="loader">
-                <div className="shadow"></div>
-                <div className="box"></div>
-            </div>
-        </div> : ""}
+     
 
 
         <div className='navbar-area'>

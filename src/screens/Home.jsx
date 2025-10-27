@@ -50,19 +50,7 @@ const HomePage = () => {
 
     return (<>
 
-        {isLoading ? <div className="preloader">
-            <div className="loader">
-                <div className="shadow"></div>
-                <div className="box"></div>
-            </div>
-        </div> : ""}
-
-
-
-
-
-
-
+      
 
         <div class="navbar-area">
             <div class="luvion-responsive-nav">
