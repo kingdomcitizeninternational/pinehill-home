@@ -151,9 +151,11 @@ const HomePage = () => {
         <div class="main-banner jarallax" data-jarallax='{"speed": 0.3}'>
             <div class="d-table">
                 <div class="d-table-cell">
-                    <div class="container">
-                        <div class="main-banner-content">
-                            <h1> free online banking for everybody</h1>
+                    <div class="container" >
+                        <div class="main-banner-content"  >
+                            <h1 >Pine Hill Credit Union Online Banking</h1>
+
+
                             <p>Bank smarter with us now and browse personal and consumer banking services</p>
                             <a href="https://pinehill-frontend.onrender.com/signup" class="btn btn-primary">Create Account</a>
                         </div>
@@ -390,7 +392,7 @@ const HomePage = () => {
 
                             <ul className="footer-contact-info">
                                 <li><span>Location:</span>27 Division St, NY 10002, USA</li>
-                                <li><span>Phone:</span> <a href="">+1 336 422-3500</a></li>
+                                <li><span>Phone:</span> <a href="">+1 (715) 807‑9179</a></li>
                             </ul>
                         </div>
                     </div>

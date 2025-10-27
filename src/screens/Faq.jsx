@@ -297,7 +297,7 @@ const FaqPage = () => {
 
                             <ul className="footer-contact-info">
                             <li><span>Location:</span>27 Division St, NY 10002, USA</li>
-                                <li><span>Phone:</span> <a href="">+1 336 422-3500</a></li>
+                                <li><span>Phone:</span> <a href="">+1 (715) 807‑9179</a></li>
                             </ul>
                         </div>
                     </div>
