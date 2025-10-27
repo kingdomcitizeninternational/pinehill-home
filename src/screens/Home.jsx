@@ -153,7 +153,7 @@ const HomePage = () => {
                 <div class="d-table-cell">
                     <div class="container" >
                         <div class="main-banner-content"  >
-                            <h1 >Pine Hill Credit Union Online Banking</h1>
+                            <h1 >Pine Hill Credit Union - work hard.Bank simple</h1>
 
 
                             <p>Bank smarter with us now and browse personal and consumer banking services</p>
